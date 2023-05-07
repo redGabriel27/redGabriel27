@@ -6,7 +6,8 @@
 - Estou me desenvolvendo na linguagem JavaScript.
 - Utilizo esse espaço para a minha organização e compartilhamento dos meus projetos.
 
-## - Fale comigo por
-### Discord
-![](https://media.tenor.com/zkEybmcArhoAAAAM/discord-loading.gif)
-redGabriel#7090
+## - Fale comigo por 📧
+
+[![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9jVy25ZJS4)
+
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlos.oliveira.santos27@escola.pr.gov.br)
