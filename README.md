@@ -11,3 +11,5 @@
 [![](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/9jVy25ZJS4)
 
 [![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carlos.oliveira.santos27@escola.pr.gov.br)
+
+![](https://i.pinimg.com/originals/23/bd/01/23bd0157d8aaa3885bdd4273e8a91178.gif)
